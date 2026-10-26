@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="hu">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="robots" content="noindex,nofollow,noarchive">
+    <title>Loft | Tartalomszerkesztő</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <main class="editor"><a href="index.html">Vissza a vendégkalauzhoz</a>
+        <h1>Tartalomszerkesztő</h1>
+        <p class="warning">A szerkesztések ezen az eszközön, ebben a böngészőben mentődnek piszkozatként. Nem módosítják
+            az élő vendégoldalt. Az exportált content.json fájlt újra közzé kell tenni. Ez nem központi tartalomkezelő.
+            A felülethez jelenleg csak a privát oldal tulajdonosa fér hozzá. Nyilvános kiadásból az editor.html és
+            editor.js fájlokat törölni kell, vagy valódi szerveroldali védelemmel kell ellátni.</p>
+        <div id="message" role="status"></div>
+        <div class="row"><label>Márkanév<input id="brand"></label><label>Fő szín<input id="color" type="color"></label>
+        </div><label>Alcím<input id="subtitle"></label><label>Logó URL (https://, opcionális)<input
+                id="logo"></label><label>Nyitókép (HTTPS vagy assets/ útvonal)<input
+                id="heroImage"></label><label>Cím<input id="address"></label><label>Térképlink<input
+                id="mapsUrl"></label>
+        <div class="row"><label>Érkezés<input id="checkIn" type="time"></label><label>Távozás<input id="checkOut"
+                    type="time"></label></div><button id="savebrand">Márka mentése</button><button id="add">Új tartalmi
+            kártya</button><button id="export">content.json exportálása</button><label>Korábbi adatfájl betöltése<input
+                id="import" type="file" accept="application/json,.json"></label><button id="reset">Helyi piszkozat
+            elvetése</button>
+        <p>Az export minden piszkozatot megőriz, de a vendégoldal csak a jóváhagyott, érvényes dátumú bejegyzéseket
+            jeleníti meg. Jóváhagyás előtt mindhárom fordítást és a forrást ellenőrizd. Az adatfájl belépési adatot
+            tartalmaz. Maradjon privát. Nyilvános kiadáshoz előbb távolítsd el a kulcsszéf kódját és a Wi-Fi jelszavát.
+        </p>
+        <h2>Kapcsolatfelvétel</h2><label>Szállásadó neve<input id="contactName"></label><label>Telefonszám (nemzetközi
+            formátum)<input id="contactPhone" type="tel"></label><label>Megjelenített telefonszám<input
+                id="contactDisplayPhone"></label><label>WhatsApp-szám (nemzetközi formátum)<input id="contactWhatsapp"
+                type="tel"></label><label>Google Maps-adatlap vagy értékelési link<input id="contactReviewUrl"
+                type="url"></label><button id="saveContact">Elérhetőségek mentése</button>
+        <h2>Ellenőrzési ütemezés</h2>
+        <div id="schedule"></div>
+        <h2>Tartalmak</h2>
+        <div id="entries"></div>
+    </main>
+    <script src="editor.js"></script>
+</body>
+
+</html>

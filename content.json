@@ -1,0 +1,783 @@
+{
+  "schemaVersion": 1,
+  "brand": {
+    "name": "Apartament Loft",
+    "subtitle": "Ultracentral · Târgu Mureș",
+    "color": "#285b50",
+    "logo": "",
+    "address": "Str. Tușnad 2 · Bloc C · Etaj 4 · Ap. 43",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Strada+Tusnad+2+Targu+Mures",
+    "checkIn": "14:00",
+    "checkOut": "10:00",
+    "heroImage": "assets/loft-bedroom.jpg"
+  },
+  "languages": [
+    "hu",
+    "ro",
+    "en"
+  ],
+  "defaultLanguage": "ro",
+  "hostPhone": "+40721210960",
+  "items": [
+    {
+      "id": "arrival",
+      "group": "arrival",
+      "title": {
+        "hu": "Megérkezés, lépésről lépésre",
+        "ro": "Sosirea, pas cu pas",
+        "en": "Arriving, step by step"
+      },
+      "body": {
+        "hu": "Önálló érkezés, kényelmes kulcsátvétellel.\n\nCím: Str. Tușnad 2, C tömb, 4. emelet, 43. apartman, Târgu Mureș.\nÉrkezés: 14:00-tól.\n\n1. Lépj be a belső udvarba.\n2. Keresd az első lépcsőházat a bal oldalon.\n3. A kulcsot a kaputelefon melletti kulcsszéfből veheted át.\n\nKulcsszéf kódja: 2662.\n\nKérjük, bejutás után egy rövid üzenetben jelezd, hogy minden rendben van.",
+        "ro": "Vă puteți caza independent, cu preluarea cheii din cutia de chei.\n\nAdresă: Str. Tușnad 2, bloc C, etaj 4, apartament 43, Târgu Mureș.\nCheck-in: de la ora 14:00.\n\n1. Intrați în curtea interioară.\n2. Mergeți la prima scară din partea stângă.\n3. Luați cheia din cutia aflată lângă interfon.\n\nCodul cutiei de chei: 2662.\n\nDupă ce intrați, vă rugăm să ne confirmați printr-un mesaj scurt că totul este în regulă.",
+        "en": "Enjoy an independent arrival with self-service key collection.\n\nAddress: Str. Tușnad 2, block C, 4th floor, apartment 43, Târgu Mureș.\nCheck-in: from 14:00.\n\n1. Enter the inner courtyard.\n2. Take the first staircase on the left.\n3. Collect the key from the key safe beside the intercom.\n\nKey safe code: 2662.\n\nOnce inside, please send us a short message to let us know everything is fine."
+      },
+      "url": "https://www.google.com/maps/search/?api=1&query=Strada+Tusnad+2+Targu+Mures",
+      "status": "approved",
+      "cycle": "monthly",
+      "source": "Tulajdonosi adatközlés, 2026.10.26.",
+      "checkedAt": "2026-10-26",
+      "validUntil": "2026-11-26",
+      "linkLabel": null,
+      "images": []
+    },
+    {
+      "id": "parking",
+      "group": "arrival",
+      "title": {
+        "hu": "Parkolás",
+        "ro": "Parcare",
+        "en": "Parking"
+      },
+      "body": {
+        "hu": "Az épület előtt utcai parkolóhelyeket kereshetsz. A szabad helyek nem garantáltak.\n\nZóna: a szállásadó tájékoztatása szerint I. zóna. Ellenőrizd a helyszíni táblát.\nFizetős időszak: hétfőtől péntekig, 08:00 és 18:00 között.\nHétvége: az általános önkormányzati rend szerint díjmentes.\nNapijegy: körülbelül 2,60 € a TPARK alkalmazásban.\n\nFizetéshez használhatod a TPARK alkalmazást. Jóváhagyás előtt ellenőrizd a zónát, a rendszámot és a végösszeget.",
+        "ro": "Puteți căuta un loc de parcare pe strada din fața blocului. Disponibilitatea nu este garantată.\n\nZonă: conform gazdei, zona I. Verificați indicatorul de la fața locului.\nProgram cu plată: luni până vineri, 08:00–18:00.\nWeekend: gratuit conform programului general al primăriei.\nBilet de o zi: aproximativ 2,60 € prin aplicația TPARK.\n\nPuteți plăti prin TPARK. Înainte de confirmare, verificați zona, numărul de înmatriculare și suma finală.",
+        "en": "Look for street parking outside the building. Spaces are subject to availability.\n\nZone: Zone I according to the host. Check the sign where you park.\nCharging hours: Monday to Friday, 08:00–18:00.\nWeekends: free under the municipality’s general schedule.\nDay ticket: approximately €2.60 through the TPARK app.\n\nYou can pay with TPARK. Before confirming, check the zone, registration number and final amount."
+      },
+      "url": "https://tpark.io/oras/plata-parcare-tirgu-mures/",
+      "status": "approved",
+      "cycle": "monthly",
+      "source": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/D721FE8E111EABECC2258DD40025A1ED/$FILE/HCL%2047.pdf ; https://www.tirgumures.ro/index.php?Itemid=475&catid=44%3Apagini&id=6670%3Azone-de-parcare&option=com_content&view=article ; Euró összeg: tulajdonosi tájékoztatás, tájékoztató jellegű, az alkalmazás végösszege irányadó.",
+      "checkedAt": "2026-10-26",
+      "validUntil": "2026-11-26",
+      "linkLabel": null,
+      "images": []
+    },
+    {
+      "id": "jai",
+      "group": "food",
+      "title": {
+        "hu": "J’ai Bistrot",
+        "ro": "J’ai Bistrot",
+        "en": "J’ai Bistrot"
+      },
+      "body": {
+        "hu": "Ha egy ráérős reggelire vagy kötetlen ebédre vágysz, a Piața Mărășești téri bisztró jó választás a nyugodt hangulatáért.",
+        "ro": "Pentru un mic dejun fără grabă sau un prânz relaxat, bistroul din Piața Mărășești este o alegere plăcută.",
+        "en": "For a leisurely breakfast or a relaxed lunch, this bistro on Piața Mărășești is a lovely choice."
+      },
+      "url": "https://menio.ro/jaibistrot",
+      "address": "Piața Mărășești 6, Târgu Mureș",
+      "source": "https://www.instagram.com/jaibistrot_mures/ ; https://menio.ro/jaibistrot ; https://m.eeatingh.ro/targu-mures/j-ai-bistrot/breakfast-more.html",
+      "status": "approved",
+      "cycle": "monthly",
+      "checkedAt": "2026-10-26",
+      "validUntil": "2026-11-26",
+      "images": [
+        {
+          "src": "assets/jai-user.jpg",
+          "alt": {
+            "hu": "J’ai Bistrot",
+            "ro": "J’ai Bistrot",
+            "en": "J’ai Bistrot"
+          }
+        }
+      ],
+      "linkLabel": {
+        "hu": "Online étlap",
+        "ro": "Meniu online",
+        "en": "Online menu"
+      }
+    },
+    {
+      "id": "maza",
+      "group": "food",
+      "title": {
+        "hu": "MAZA Lebanese Cuisine",
+        "ro": "MAZA Lebanese Cuisine",
+        "en": "MAZA Lebanese Cuisine"
+      },
+      "body": {
+        "hu": "Ha valami másra vágysz, itt libanoni ízekkel színesítheted a városnézést. A mezék különösen jók egy közös, többfogásos kóstoláshoz.",
+        "ro": "Dacă aveți poftă de ceva diferit, aici puteți descoperi aromele bucătăriei libaneze. Mezze sunt o alegere bună pentru o masă cu mai multe preparate de împărțit.",
+        "en": "If you fancy something different, try Lebanese flavours here. Mezze make a great choice for a meal of small dishes to share."
+      },
+      "url": "https://mazarestaurant.ro/restaurant/",
+      "address": "Strada Mihai Viteazul 60, Târgu Mureș",
+      "source": "https://mazarestaurant.ro/restaurant/ ; https://mazarestaurant.ro/contact/",
+      "status": "approved",
+      "cycle": "monthly",
+      "checkedAt": "2026-10-26",
+      "validUntil": "2026-11-26",
+      "images": [
+        {
+          "src": "assets/maza.jpg",
+          "source": "https://www.tripadvisor.es/Restaurant_Review-g298477-d26557813-Reviews-MAZA_Restaurant_Lebanese_Cuisine-Targu_Mures_Mures_County_Central_Romania_Transy.html",
+          "alt": {
+            "hu": "MAZA Lebanese Cuisine",
+            "ro": "MAZA Lebanese Cuisine",
+            "en": "MAZA Lebanese Cuisine"
+          }
+        }
+      ]
+    },
+    {
+      "id": "country",
+      "group": "food",
+      "title": {
+        "hu": "Country Bread Bistro",
+        "ro": "Country Bread Bistro",
+        "en": "Country Bread Bistro"
+      },
+      "body": {
+        "hu": "Belvárosi sétához jól illik egy ebéd ebben a főtéri bisztróban. Napi menüvel, à la carte fogásokkal és házi kenyérrel is várnak.",
+        "ro": "O oprire plăcută pentru prânz în timpul unei plimbări prin centru. Bistroul din piața centrală oferă meniul zilei, preparate à la carte și pâine de casă.",
+        "en": "A pleasant lunch stop during a walk through the centre. This main-square bistro offers a daily lunch menu, à la carte dishes and house-made bread."
+      },
+      "url": "https://www.facebook.com/countrybreadms/",
+      "address": "Piața Trandafirilor 53, Târgu Mureș",
+      "source": "Tulajdonosi helyismeret ; https://visitmures.com/en/targu-mures/built-heritage/castles-citadels-architectural-curiosities/administrative-palace-targu-mures ; https://glovoapp.com/ro/ro/targu-mures/stores/country-bread-bistro",
+      "status": "approved",
+      "cycle": "monthly",
+      "checkedAt": "2026-10-26",
+      "validUntil": "2026-11-26",
+      "images": [
+        {
+          "src": "assets/country.jpg",
+          "source": "https://wolt.com/ro/rou/targu-mures/restaurant/country-bread-targu-mures-67dac5fb5416f96b8fd406b5",
+          "alt": {
+            "hu": "Country Bread Bistro",
+            "ro": "Country Bread Bistro",
+            "en": "Country Bread Bistro"
+          }
+        }
+      ]
+    },
+    {
+      "id": "checkout",
+      "group": "departure",
+      "title": {
+        "hu": "Távozás 10:00-ig",
+        "ro": "Plecare până la 10:00",
+        "en": "Check-out by 10:00"
+      },
+      "body": {
+        "hu": "Kijelentkezés: 10:00-ig.\n\n1. Vidd ki a szemetet.\n2. Hagyd nyitva a fürdőszoba ajtaját a szellőzéshez.\n3. Tedd vissza a kulcsot a kulcsszéfbe.\n4. Küldj egy rövid üzenetet, amikor elhagytad az apartmant.\n\nKésőbbi távozás: csak előzetes egyeztetéssel, a lehetőségek függvényében.",
+        "ro": "Check-out: până la ora 10:00.\n\n1. Duceți gunoiul.\n2. Lăsați ușa băii deschisă pentru aerisire.\n3. Puneți cheia înapoi în cutia de chei.\n4. Trimiteți-ne un mesaj scurt când ați părăsit apartamentul.\n\nPlecare mai târzie: doar cu acordul gazdei, în funcție de disponibilitate.",
+        "en": "Check-out: by 10:00.\n\n1. Take out the rubbish.\n2. Leave the bathroom door open for ventilation.\n3. Return the key to the key safe.\n4. Send us a short message once you have left.\n\nLate check-out: by prior agreement, subject to availability."
+      },
+      "url": null,
+      "status": "approved",
+      "cycle": "monthly",
+      "source": "Tulajdonosi adatközlés, 2026.10.26.",
+      "checkedAt": "2026-10-26",
+      "validUntil": "2026-11-26",
+      "linkLabel": null,
+      "images": []
+    },
+    {
+      "id": "wifi",
+      "group": "stay",
+      "title": {
+        "hu": "Wi-Fi",
+        "ro": "Wi-Fi",
+        "en": "Wi-Fi"
+      },
+      "body": {
+        "hu": "Wi-Fi jelszó: whatsthepassword",
+        "ro": "Parolă Wi-Fi: whatsthepassword",
+        "en": "Wi-Fi password: whatsthepassword"
+      },
+      "url": null,
+      "status": "approved",
+      "cycle": "monthly",
+      "source": "Tulajdonosi adatközlés, 2026.10.26.",
+      "checkedAt": "2026-10-26",
+      "validUntil": "2026-11-26",
+      "linkLabel": null,
+      "images": [],
+      "copyValue": "whatsthepassword"
+    },
+    {
+      "id": "nespresso",
+      "group": "stay",
+      "title": {
+        "hu": "Nespresso: a kávémennyiség beállítása",
+        "ro": "Nespresso: reglarea cantității de cafea",
+        "en": "Nespresso: adjust your coffee volume"
+      },
+      "body": {
+        "hu": "Állítsd a kávé hosszúságát a saját ízlésedhez.\n\n1. Helyezd be a kapszulát.\n2. Tartsd lenyomva a kívánt kávégombot, például az eszpresszó gombját.\n3. Amikor elegendő kávé került a csészébe, engedd el a gombot.\n\nA gép megjegyzi a mennyiséget. Legközelebb ugyanennek a gombnak a megnyomásakor ezt a mennyiséget készíti el.",
+        "ro": "Reglați cantitatea de cafea după preferințele dumneavoastră.\n\n1. Introduceți capsula.\n2. Țineți apăsat butonul de cafea dorit, de exemplu cel pentru espresso.\n3. Eliberați butonul când în ceașcă s-a adunat cantitatea dorită.\n\nAparatul memorează automat cantitatea. La următoarea apăsare a aceluiași buton, va prepara aceeași cantitate de cafea.",
+        "en": "It is easy to set the coffee volume to your preference.\n\n1. Insert the capsule.\n2. Press and hold the coffee button you want to programme, such as the espresso button.\n3. Release it when your cup contains the amount of coffee you prefer.\n\nThe machine automatically saves this volume. Next time you press the same button, it will dispense the same amount."
+      },
+      "url": "https://youtu.be/jROxYU5xnbY",
+      "linkLabel": {
+        "hu": "Videós útmutató megnyitása",
+        "ro": "Deschide ghidul video",
+        "en": "Watch the video guide"
+      },
+      "status": "approved",
+      "cycle": "monthly",
+      "checkedAt": "2026-10-26",
+      "validUntil": "2026-11-26",
+      "source": "Tulajdonos által megadott kezelési útmutató és videó, 2026.10.26. A videó tartalmát nem sikerült függetlenül ellenőrizni.",
+      "images": [
+        {
+          "src": "assets/nespresso-new.jpg",
+          "alt": {
+            "hu": "A Nespresso kávéfőző és a kávésarok az apartmanban",
+            "ro": "Aparatul Nespresso și colțul de cafea din apartament",
+            "en": "The apartment’s Nespresso machine and coffee corner"
+          },
+          "position": "center 75%"
+        }
+      ]
+    },
+    {
+      "id": "sofa",
+      "group": "stay",
+      "title": {
+        "hu": "A kanapé kinyitása",
+        "ro": "Deschiderea canapelei",
+        "en": "Opening the sofa bed"
+      },
+      "body": {
+        "hu": "A kanapé néhány egyszerű mozdulattal ággyá alakítható.\n\nÁgynemű: kettőnél több vendég esetén a kanapé tárolójában találod.\n\n1. Keresd meg az alján lévő textilfület.\n2. Húzd meg a kinyitáshoz. Más manőverre nincs szükség.\n\nA videó első 30 másodpercében megnézheted, hogyan nyílik a kanapé.",
+        "ro": "Canapeaua se transformă ușor într-un pat.\n\nLenjerie: pentru rezervările cu mai mult de două persoane, se află în spațiul de depozitare al canapelei.\n\n1. Găsiți mânerul textil din partea de jos.\n2. Trageți de el pentru a deschide canapeaua. Nu sunt necesare alte manevre.\n\nÎn primele 30 de secunde ale videoclipului puteți vedea cum se deschide canapeaua.",
+        "en": "The sofa converts easily into a bed.\n\nBedding: for bookings of more than two guests, it is in the sofa’s storage compartment.\n\n1. Find the fabric handle at the bottom.\n2. Pull it to open the sofa bed. No other manoeuvres are needed.\n\nThe first 30 seconds of the video show how to open the sofa bed."
+      },
+      "url": "https://www.youtube.com/watch?v=jJXj-WN8b1U",
+      "status": "approved",
+      "cycle": "monthly",
+      "source": "Tulajdonosi adatközlés, 2026.10.26. ; Tulajdonos által megadott videó: https://www.youtube.com/watch?v=jJXj-WN8b1U",
+      "checkedAt": "2026-10-26",
+      "validUntil": "2026-11-26",
+      "linkLabel": {
+        "hu": "Kanapé kinyitása videón",
+        "ro": "Vezi cum se deschide canapeaua",
+        "en": "Watch how to open the sofa bed"
+      },
+      "images": [
+        {
+          "src": "assets/loft-sofa.jpg",
+          "alt": {
+            "hu": "Az apartman nappalija és kinyitható kanapéja",
+            "ro": "Livingul apartamentului și canapeaua extensibilă",
+            "en": "The apartment living room and sofa bed"
+          }
+        }
+      ]
+    },
+    {
+      "id": "humidity",
+      "group": "stay",
+      "title": {
+        "hu": "Fürdőszoba és páramentesítő",
+        "ro": "Baie și dezumidificator",
+        "en": "Bathroom & dehumidifier"
+      },
+      "body": {
+        "hu": "A páramentesítő segít csökkenteni a fürdőszobában felgyülemlő párát.\n\nHelye: a mosógép mellett.\n\n1. Zuhanyzás után kapcsold be.\n2. Ha megtelt, ürítsd ki a készülék hátulján lévő víztartályt.",
+        "ro": "Dezumidificatorul ajută la reducerea umezelii din baie.\n\nUnde îl găsiți: lângă mașina de spălat.\n\n1. Porniți-l după duș.\n2. Când se umple, goliți rezervorul de apă din partea din spate a aparatului.",
+        "en": "The dehumidifier helps reduce moisture in the bathroom.\n\nLocation: beside the washing machine.\n\n1. Switch it on after showering.\n2. When full, empty the water tank at the back of the appliance."
+      },
+      "url": null,
+      "status": "approved",
+      "cycle": "monthly",
+      "source": "Tulajdonosi adatközlés, 2026.10.26.",
+      "checkedAt": "2026-10-26",
+      "validUntil": "2026-11-26",
+      "linkLabel": null,
+      "images": [
+        {
+          "src": "assets/loft-bathroom.jpg",
+          "alt": {
+            "hu": "Az apartman fürdőszobája",
+            "ro": "Baia apartamentului",
+            "en": "The apartment bathroom"
+          }
+        }
+      ]
+    },
+    {
+      "id": "rules",
+      "group": "stay",
+      "title": {
+        "hu": "Nemdohányzó apartman",
+        "ro": "Apartament pentru nefumători",
+        "en": "Smoke-free apartment"
+      },
+      "body": {
+        "hu": "Kérjük, segíts megőrizni az apartman kényelmét a következő vendégek számára is.\n\nDohányzás: az apartman egész területén tilos, kivétel nélkül.",
+        "ro": "Vă mulțumim că ne ajutați să păstrăm apartamentul plăcut pentru toți oaspeții.\n\nFumat: interzis în întregul apartament, fără excepții.",
+        "en": "Thank you for helping us keep the apartment welcoming for every guest.\n\nSmoking: not permitted anywhere inside, without exceptions."
+      },
+      "url": null,
+      "status": "approved",
+      "cycle": "monthly",
+      "source": "Tulajdonosi adatközlés, 2026.10.26.",
+      "checkedAt": "2026-10-26",
+      "validUntil": "2026-11-26",
+      "linkLabel": null,
+      "images": []
+    },
+    {
+      "id": "palace",
+      "group": "city",
+      "title": {
+        "hu": "Kultúrpalota",
+        "ro": "Palatul Culturii",
+        "en": "Palace of Culture"
+      },
+      "body": {
+        "hu": "A szecessziós épület Tükörterme és művészeti kiállításai jó kiindulópontot adnak a város felfedezéséhez.\n\nEsős időre is jó választás; a látogatható termeket és a nyitvatartást indulás előtt nézd meg.",
+        "ro": "Sala Oglinzilor și expozițiile de artă oferă un început potrivit pentru descoperirea orașului.\n\nEste o opțiune bună și pe ploaie; verificați programul și sălile accesibile înainte de vizită.",
+        "en": "The Art Nouveau palace’s Mirror Hall and art exhibitions are a rewarding introduction to the city.\n\nIt also suits a rainy day; check opening hours and which rooms are accessible before visiting."
+      },
+      "url": "https://palatul-culturii.ro/",
+      "status": "approved",
+      "cycle": "monthly",
+      "source": "https://palatul-culturii.ro/",
+      "checkedAt": "2026-10-26",
+      "validUntil": "2026-11-26",
+      "linkLabel": null,
+      "address": "Piața Victoriei 1, Târgu Mureș",
+      "images": [
+        {
+          "src": "assets/culture-user.jpg",
+          "alt": {
+            "hu": "A marosvásárhelyi Kultúrpalota homlokzata",
+            "ro": "Fațada Palatului Culturii din Târgu Mureș",
+            "en": "The Palace of Culture façade in Târgu Mureș"
+          }
+        }
+      ]
+    },
+    {
+      "id": "fortress",
+      "group": "city",
+      "title": {
+        "hu": "Vár és vártemplom",
+        "ro": "Cetatea și biserica din cetate",
+        "en": "Fortress & fortress church"
+      },
+      "body": {
+        "hu": "A bástyás várudvar kellemes hely egy történelmi sétához, a vártemplom pedig külön figyelmet érdemel.\n\nRendezvény idején a hozzáférés és a látogathatóság változhat.",
+        "ro": "Curtea cetății și bastioanele se potrivesc unei plimbări istorice, cu o oprire la biserica din incintă.\n\nAccesul și vizitarea se pot schimba în timpul evenimentelor.",
+        "en": "The fortress courtyard and bastions make a pleasant historical walk, with a stop at the church inside.\n\nAccess and visiting arrangements may change during events."
+      },
+      "url": "https://visitmures.com/targu-mures/patrimoniu/castele-cetati-curiozitati-arhitecturale/cetatea-targu-mures",
+      "status": "approved",
+      "cycle": "monthly",
+      "source": "https://visitmures.com/targu-mures/patrimoniu/castele-cetati-curiozitati-arhitecturale/cetatea-targu-mures",
+      "checkedAt": "2026-10-26",
+      "validUntil": "2026-11-26",
+      "linkLabel": null,
+      "address": "Cetatea medievală, Târgu Mureș",
+      "images": [
+        {
+          "src": "assets/fortress.jpg",
+          "source": "https://visitmures.com/targu-mures/patrimoniu/castele-cetati-curiozitati-arhitecturale/cetatea-targu-mures",
+          "alt": {
+            "hu": "Vár és vártemplom",
+            "ro": "Cetatea și biserica din cetate",
+            "en": "Fortress & fortress church"
+          }
+        }
+      ]
+    },
+    {
+      "id": "teleki",
+      "group": "city",
+      "title": {
+        "hu": "Teleki Téka",
+        "ro": "Biblioteca Teleki-Bolyai",
+        "en": "Teleki-Bolyai Library"
+      },
+      "body": {
+        "hu": "A történelmi könyvtár a régi könyvek és a város tudományos öröksége iránt érdeklődőknek különösen jó választás.\n\nA Bolyai-emlékszoba miatt a matematika történetéhez is kapcsolódik.",
+        "ro": "Biblioteca istorică este potrivită celor interesați de cărți vechi și de patrimoniul științific al orașului.\n\nCamera memorială Bolyai adaugă o legătură cu istoria matematicii.",
+        "en": "This historic library is especially interesting for visitors drawn to rare books and the city’s scientific heritage.\n\nThe Bolyai memorial room adds a connection to the history of mathematics."
+      },
+      "url": "https://www.telekiteka.ro/",
+      "status": "approved",
+      "cycle": "monthly",
+      "source": "https://www.telekiteka.ro/",
+      "checkedAt": "2026-10-26",
+      "validUntil": "2026-11-26",
+      "linkLabel": null,
+      "address": "Strada Bolyai 17, Târgu Mureș",
+      "images": [
+        {
+          "src": "assets/teleki-new.jpg",
+          "alt": {
+            "hu": "A Teleki–Bolyai Könyvtár történelmi könyvtárterme",
+            "ro": "Sala istorică a Bibliotecii Teleki-Bolyai",
+            "en": "The historic hall of the Teleki-Bolyai Library"
+          }
+        }
+      ]
+    },
+    {
+      "id": "zoo",
+      "group": "city",
+      "title": {
+        "hu": "Marosvásárhelyi Állatkert",
+        "ro": "Grădina Zoologică",
+        "en": "Târgu Mureș Zoo"
+      },
+      "body": {
+        "hu": "Családoknak és az állatok iránt érdeklődőknek hosszabb szabadtéri programot kínál a Somostetőn.\n\nA nyári és téli nyitvatartás eltér, ezért a hivatalos látogatói oldalt ellenőrizd.",
+        "ro": "Este o activitate în aer liber pentru familii și pentru cei interesați de animale, pe Platoul Cornești.\n\nProgramul de vară diferă de cel de iarnă, așa că verificați pagina oficială înainte de plecare.",
+        "en": "A longer outdoor activity for families and animal lovers on the Cornești Plateau.\n\nSummer and winter opening hours differ, so check the official visitor page before setting out."
+      },
+      "url": "https://zootirgumures.ro/vizita/",
+      "status": "approved",
+      "cycle": "monthly",
+      "source": "https://zootirgumures.ro/vizita/",
+      "checkedAt": "2026-10-26",
+      "validUntil": "2026-11-26",
+      "linkLabel": null,
+      "address": "Strada Verii 57, Târgu Mureș",
+      "images": [
+        {
+          "src": "assets/zoo-lions.jpg",
+          "alt": {
+            "hu": "Oroszlánok a marosvásárhelyi állatkertben",
+            "ro": "Lei la Grădina Zoologică Târgu Mureș",
+            "en": "Lions at Târgu Mureș Zoo"
+          }
+        }
+      ]
+    },
+    {
+      "id": "plateau",
+      "group": "city",
+      "title": {
+        "hu": "Somostető",
+        "ro": "Platoul Cornești",
+        "en": "Cornești Plateau"
+      },
+      "body": {
+        "hu": "Erdei sétákhoz és a város panorámájához jó választás.\n\nA belvárosi programtól külön tervezd, és az időjáráshoz, valamint a saját erőnlétedhez igazítsd az útvonalat.",
+        "ro": "Este o alegere pentru plimbări prin pădure și o panoramă asupra orașului.\n\nPlanificați separat de traseul central și adaptați plimbarea la vreme și la condiția fizică.",
+        "en": "A good choice for woodland walks and views over the city.\n\nPlan it separately from the central sightseeing route and adapt your walk to the weather and your fitness."
+      },
+      "url": "https://visitmures.com/targu-mures/outdoor/aventura-si-experiente/platoul-cornesti",
+      "status": "approved",
+      "cycle": "monthly",
+      "source": "https://visitmures.com/targu-mures/outdoor/aventura-si-experiente/platoul-cornesti",
+      "checkedAt": "2026-10-26",
+      "validUntil": "2026-11-26",
+      "linkLabel": null,
+      "address": "Platoul Cornești, Târgu Mureș",
+      "images": [
+        {
+          "src": "assets/plateau.jpg",
+          "source": "https://visitmures.com/targu-mures/outdoor/aventura-si-experiente/platoul-cornesti",
+          "alt": {
+            "hu": "Somostető",
+            "ro": "Platoul Cornești",
+            "en": "Cornești Plateau"
+          }
+        }
+      ]
+    },
+    {
+      "id": "112coffee",
+      "group": "coffee",
+      "title": {
+        "hu": "112 Coffee & Co.",
+        "ro": "112 Coffee & Co.",
+        "en": "112 Coffee & Co."
+      },
+      "body": {
+        "hu": "A Kultúrpalota meglátogatása után jólesik itt egy specialty kávé. A George Enescu utcai kávézó kényelmes megálló a belvárosi sétán.",
+        "ro": "După o vizită la Palatul Culturii, o cafea de specialitate prinde bine. Cafeneaua de pe strada George Enescu este o oprire la îndemână în timpul plimbării prin centru.",
+        "en": "After visiting the Palace of Culture, stop here for a specialty coffee. The café on George Enescu Street is a convenient break on a walk through the centre."
+      },
+      "url": "https://www.instagram.com/112coffee/",
+      "status": "approved",
+      "cycle": "monthly",
+      "source": "https://visitmures.com/checkouts/coffee/region/all ; https://www.instagram.com/112coffee/",
+      "checkedAt": "2026-10-26",
+      "validUntil": "2026-11-26",
+      "linkLabel": null,
+      "address": "Strada George Enescu 2, Târgu Mureș",
+      "images": [
+        {
+          "src": "assets/112-new.jpg",
+          "alt": {
+            "hu": "112 Coffee & Co. kávézó",
+            "ro": "Cafeneaua 112 Coffee & Co.",
+            "en": "112 Coffee & Co. café"
+          }
+        }
+      ]
+    },
+    {
+      "id": "elephant",
+      "group": "coffee",
+      "title": {
+        "hu": "The Elephant House",
+        "ro": "The Elephant House",
+        "en": "The Elephant House"
+      },
+      "body": {
+        "hu": "Egy lassabb reggelhez vagy délutáni kávészünethez ajánljuk. A saját pörkölésű kávé mellé egy házi finomság is jól illik.",
+        "ro": "O recomandare pentru o dimineață fără grabă sau o pauză de după-amiază. Cafeaua prăjită de ei se potrivește bine cu o bunătate de casă.",
+        "en": "A lovely choice for a slow morning or an afternoon coffee break. Pair their own-roasted coffee with a homemade treat."
+      },
+      "url": "https://www.instagram.com/theelephanthouse/",
+      "status": "approved",
+      "cycle": "monthly",
+      "source": "https://www.instagram.com/theelephanthouse/ ; házszám eltérés miatt nincs házszám megadva",
+      "checkedAt": "2026-10-26",
+      "validUntil": "2026-11-26",
+      "linkLabel": null,
+      "address": "Strada Nicolae Iorga, Târgu Mureș",
+      "images": [
+        {
+          "src": "assets/elephant-new.jpg",
+          "alt": {
+            "hu": "Kávé és péksütemény a The Elephant House ajánlójához",
+            "ro": "Cafea și produse de patiserie pentru The Elephant House",
+            "en": "Coffee and pastries for The Elephant House"
+          }
+        }
+      ]
+    },
+    {
+      "id": "piaf",
+      "group": "coffee",
+      "title": {
+        "hu": "Piaf Cafe",
+        "ro": "Piaf Cafe",
+        "en": "Piaf Cafe"
+      },
+      "body": {
+        "hu": "Ha a kávé mellé reggelit vagy brunchot is ennél, érdemes megállni a Bolyai utcai Piafnál. A terasz egy hosszabb pihenéshez is kellemes.",
+        "ro": "Dacă vreți și un mic dejun sau un brunch lângă cafea, Piaf de pe strada Bolyai este o alegere plăcută. Terasa se potrivește și unei pauze mai lungi.",
+        "en": "For breakfast or brunch alongside your coffee, Piaf on Bolyai Street is a pleasant choice. The terrace is also a lovely spot for a longer break."
+      },
+      "url": "https://www.facebook.com/Piaf.Cafe/",
+      "address": "Strada Bolyai 10, Târgu Mureș",
+      "source": "https://www.mures.heyromania.ro/ro/businesses/detalii/4099-Piaf-Cafe ; https://www.facebook.com/Piaf.Cafe/ ; https://eeatingh.ro/targu-mures/piaf-cafe.html",
+      "status": "approved",
+      "cycle": "monthly",
+      "checkedAt": "2026-10-26",
+      "validUntil": "2026-11-26",
+      "images": [
+        {
+          "src": "assets/piaf.jpg",
+          "alt": {
+            "hu": "A Piaf Cafe terasza a Bolyai utcában",
+            "ro": "Terasa Piaf Cafe de pe strada Bolyai",
+            "en": "Piaf Cafe terrace on Bolyai Street"
+          }
+        }
+      ],
+      "extraLinks": [
+        {
+          "url": "https://eeatingh.ro/targu-mures/piaf-cafe.html",
+          "label": {
+            "hu": "Aktuális étlap",
+            "ro": "Meniu online",
+            "en": "Online menu"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gemma",
+      "group": "coffee",
+      "title": {
+        "hu": "Gemma Book Café",
+        "ro": "Gemma Book Café",
+        "en": "Gemma Book Café"
+      },
+      "body": {
+        "hu": "Ha egy csendesebb kávészünetre vágysz, a könyvek közötti hangulat miatt ajánljuk. Egy tea vagy házi sütemény mellé itt olvasnivalót is találsz.",
+        "ro": "Pentru o pauză mai liniștită, vă recomandăm atmosfera printre cărți de la Gemma. Lângă un ceai sau o prăjitură de casă găsiți și ceva de citit.",
+        "en": "For a quieter break, we recommend Gemma’s book-filled atmosphere. Enjoy a tea or homemade cake with something to read."
+      },
+      "url": "https://gemmabookcafe.ro/romana/",
+      "address": "Strada Bolyai 10, Târgu Mureș",
+      "source": "https://gemmabookcafe.ro/romana/ ; https://gemmabookcafe.ro/ro/contacts/",
+      "status": "approved",
+      "cycle": "monthly",
+      "checkedAt": "2026-10-26",
+      "validUntil": "2026-11-26",
+      "images": [
+        {
+          "src": "assets/gemma-user.jpg",
+          "alt": {
+            "hu": "Gemma Book Café",
+            "ro": "Gemma Book Café",
+            "en": "Gemma Book Café"
+          }
+        }
+      ]
+    },
+    {
+      "id": "coffeetree",
+      "group": "coffee",
+      "title": {
+        "hu": "Coffee Tree Lounge",
+        "ro": "Coffee Tree Lounge",
+        "en": "Coffee Tree Lounge"
+      },
+      "body": {
+        "hu": "A Kultúrpalota környékén sétálva könnyen útba ejtheted a Piața Victoriei téri kávézót. Jó megálló egy specialty kávéhoz vagy egy kis harapnivalóhoz.",
+        "ro": "În timpul unei plimbări în zona Palatului Culturii, puteți face o pauză la cafeneaua din Piața Victoriei. O alegere bună pentru o cafea de specialitate sau ceva de mâncare.",
+        "en": "While exploring the area around the Palace of Culture, stop at this café on Piața Victoriei. A good choice for a specialty coffee or a bite to eat."
+      },
+      "url": "https://www.instagram.com/coffeetree.lounge/",
+      "address": "Piața Victoriei 24, Târgu Mureș",
+      "source": "https://www.instagram.com/coffeetree.lounge/ ; https://deschis.ro/targu-mures/coffeetree-lounge-301347",
+      "status": "approved",
+      "cycle": "monthly",
+      "checkedAt": "2026-10-26",
+      "validUntil": "2026-11-26",
+      "images": [
+        {
+          "src": "assets/coffeetree-user.jpg",
+          "alt": {
+            "hu": "Coffee Tree Lounge",
+            "ro": "Coffee Tree Lounge",
+            "en": "Coffee Tree Lounge"
+          }
+        }
+      ]
+    },
+    {
+      "id": "petry",
+      "group": "food",
+      "title": {
+        "hu": "Petry Bistro",
+        "ro": "Petry Bistro",
+        "en": "Petry Bistro"
+      },
+      "body": {
+        "hu": "Egy különlegesebb ebédhez vagy vacsorához ajánljuk, főleg ha szereted a húsételeket. A Josper sütőben készült fogások adják a hely egyik jellegzetességét.",
+        "ro": "Îl recomandăm pentru un prânz sau o cină mai specială, mai ales dacă vă plac preparatele din carne. Preparatele gătite în cuptorul Josper sunt una dintre particularitățile locului.",
+        "en": "We recommend it for a special lunch or dinner, especially if you enjoy meat dishes. Josper-cooked dishes are one of the restaurant’s distinctive features."
+      },
+      "url": "https://www.petrybistro.ro/",
+      "status": "approved",
+      "cycle": "monthly",
+      "source": "https://www.petrybistro.ro/",
+      "checkedAt": "2026-10-26",
+      "validUntil": "2026-11-26",
+      "linkLabel": null,
+      "address": "Scăricica 1, Târgu Mureș",
+      "images": [
+        {
+          "src": "assets/petry-user.jpg",
+          "alt": {
+            "hu": "Petry Bistro",
+            "ro": "Petry Bistro",
+            "en": "Petry Bistro"
+          }
+        }
+      ]
+    },
+    {
+      "id": "laci",
+      "group": "food",
+      "title": {
+        "hu": "Laci Csárda · Napi menü",
+        "ro": "Laci Csárda · Meniul zilei",
+        "en": "Laci Csárda · Daily lunch menu"
+      },
+      "body": {
+        "hu": "Ha egy tartalmas, magyaros vagy erdélyi ebédre vágysz, a Laci Csárdát ajánljuk. Napi menüt és à la carte fogásokat is kínálnak.",
+        "ro": "Pentru un prânz consistent, cu preparate ardelenești și influențe maghiare, vă recomandăm Laci Csárda. Găsiți atât meniul zilei, cât și preparate à la carte.",
+        "en": "For a hearty lunch with Transylvanian and Hungarian flavours, we recommend Laci Csárda. It offers both a daily lunch menu and à la carte dishes."
+      },
+      "url": "https://www.tempo.ro/restaurant-laci-csarda",
+      "status": "approved",
+      "cycle": "monthly",
+      "source": "https://www.tempo.ro/restaurant-laci-csarda ; https://www.meniulzilei.info/targu-mures/restaurante/tempo-laci-csarda/detalii",
+      "checkedAt": "2026-10-26",
+      "validUntil": "2026-11-26",
+      "linkLabel": null,
+      "address": "Strada Morii 27, Târgu Mureș",
+      "images": [
+        {
+          "src": "assets/laci.jpg",
+          "source": "https://www.tempo.ro/restaurant-laci-csarda",
+          "alt": {
+            "hu": "Laci Csárda",
+            "ro": "Laci Csárda",
+            "en": "Laci Csárda"
+          }
+        }
+      ],
+      "extraLinks": [
+        {
+          "url": "https://www.meniulzilei.info/targu-mures/restaurante/tempo-laci-csarda/detalii",
+          "label": {
+            "hu": "Napi menü megtekintése",
+            "ro": "Vezi meniul zilei",
+            "en": "View daily menu"
+          }
+        }
+      ]
+    },
+    {
+      "id": "walk",
+      "group": "city",
+      "title": {
+        "hu": "Egy rövid belvárosi program",
+        "ro": "Un traseu scurt prin centru",
+        "en": "A short central itinerary"
+      },
+      "body": {
+        "hu": "Indulj az apartmantól egy belvárosi körsétára. Az útvonal a Kultúrpalotához, a Színház térre, a Maros Megyei Múzeum történelmi és régészeti részlegéhez, majd a Gemma Book Caféhoz vezet, végül vissza az apartmanhoz.\n\nA séta során megcsodálhatod a Kultúrpalota díszes homlokzatát, felfedezheted a Színház tér környékét, és megérkezhetsz a várban működő múzeumhoz. A Gemmánál egy könyvek közötti kávészünettel zárhatod a városnézést. A belső terek és kiállítások megtekintése külön látogatás.",
+        "ro": "Porniți de la apartament într-o plimbare prin centru. Traseul trece pe la Palatul Culturii, Piața Teatrului, secția de Istorie și Arheologie a Muzeului Județean Mureș și Gemma Book Café, apoi revine la apartament.\n\nPe drum puteți admira fațada decorată a Palatului Culturii, descoperi zona Pieței Teatrului și ajunge la muzeul din cetate. La Gemma puteți încheia plimbarea cu o cafea printre cărți. Vizitarea interioarelor și a expozițiilor este o activitate separată.",
+        "en": "Set off from the apartment on a circular walk through the centre. The route takes you past the Palace of Culture, Theatre Square, the History and Archaeology section of the Mureș County Museum and Gemma Book Café, before returning to the apartment.\n\nAlong the way, admire the Palace of Culture’s ornate façade, explore the area around Theatre Square and reach the museum in the fortress. Finish your sightseeing with a coffee among the books at Gemma. Visiting interiors and exhibitions is a separate activity."
+      },
+      "url": "https://maps.app.goo.gl/tbu9rExpvzjMKCpL8",
+      "status": "approved",
+      "cycle": "monthly",
+      "source": "Tulajdonosi adatközlés, 2026.10.26.",
+      "checkedAt": "2026-10-26",
+      "validUntil": "2026-11-26",
+      "linkLabel": {
+        "hu": "Sétaútvonal a Google Térképen",
+        "ro": "Deschide traseul în Google Maps",
+        "en": "Open the walking route in Google Maps"
+      },
+      "images": [
+        {
+          "src": "assets/central-walk.webp",
+          "alt": {
+            "hu": "Marosvásárhely belvárosának panorámája a Kultúrpalotával",
+            "ro": "Panoramă asupra centrului orașului Târgu Mureș și a Palatului Culturii",
+            "en": "Panorama of central Târgu Mureș and the Palace of Culture"
+          }
+        }
+      ]
+    }
+  ],
+  "revision": "2026-10-26-walk-photo-12",
+  "contact": {
+    "name": "Boróka",
+    "phone": "+40721210960",
+    "displayPhone": "+40 721 210 960",
+    "whatsapp": "+40721210960",
+    "reviewUrl": "https://www.google.com/maps?cid=786938391931045270"
+  }
+}

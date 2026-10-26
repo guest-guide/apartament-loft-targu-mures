@@ -1,0 +1,210 @@
+{
+  "schemaVersion": 1,
+  "brand": {
+    "name": "Szálláshely neve",
+    "subtitle": "Település",
+    "color": "#285b50",
+    "logo": "",
+    "address": "",
+    "mapsUrl": "",
+    "checkIn": "",
+    "checkOut": "",
+    "heroImage": ""
+  },
+  "languages": [
+    "hu",
+    "ro",
+    "en"
+  ],
+  "defaultLanguage": "ro",
+  "hostPhone": "",
+  "items": [
+    {
+      "id": "arrival",
+      "group": "arrival",
+      "title": {
+        "hu": "Megérkezés, lépésről lépésre",
+        "ro": "Sosirea, pas cu pas",
+        "en": "Arriving, step by step"
+      },
+      "body": {
+        "hu": "KITÖLTENDŐ",
+        "ro": "DE COMPLETAT",
+        "en": "TO COMPLETE"
+      },
+      "url": null,
+      "status": "draft",
+      "cycle": "monthly",
+      "source": "KITÖLTENDŐ",
+      "checkedAt": "2026-10-26",
+      "validUntil": "2026-11-26",
+      "linkLabel": null,
+      "images": []
+    },
+    {
+      "id": "wifi",
+      "group": "stay",
+      "title": {
+        "hu": "Wi-Fi",
+        "ro": "Wi-Fi",
+        "en": "Wi-Fi"
+      },
+      "body": {
+        "hu": "KITÖLTENDŐ",
+        "ro": "DE COMPLETAT",
+        "en": "TO COMPLETE"
+      },
+      "url": null,
+      "status": "draft",
+      "cycle": "monthly",
+      "source": "KITÖLTENDŐ",
+      "checkedAt": "2026-10-26",
+      "validUntil": "2026-11-26",
+      "linkLabel": null,
+      "images": []
+    },
+    {
+      "id": "sofa",
+      "group": "stay",
+      "title": {
+        "hu": "A kanapé kinyitása",
+        "ro": "Deschiderea canapelei",
+        "en": "Opening the sofa bed"
+      },
+      "body": {
+        "hu": "KITÖLTENDŐ",
+        "ro": "DE COMPLETAT",
+        "en": "TO COMPLETE"
+      },
+      "url": null,
+      "status": "draft",
+      "cycle": "monthly",
+      "source": "KITÖLTENDŐ",
+      "checkedAt": "2026-10-26",
+      "validUntil": "2026-11-26",
+      "linkLabel": null,
+      "images": []
+    },
+    {
+      "id": "humidity",
+      "group": "stay",
+      "title": {
+        "hu": "Fürdőszoba és páramentesítő",
+        "ro": "Baie și dezumidificator",
+        "en": "Bathroom & dehumidifier"
+      },
+      "body": {
+        "hu": "KITÖLTENDŐ",
+        "ro": "DE COMPLETAT",
+        "en": "TO COMPLETE"
+      },
+      "url": null,
+      "status": "draft",
+      "cycle": "monthly",
+      "source": "KITÖLTENDŐ",
+      "checkedAt": "2026-10-26",
+      "validUntil": "2026-11-26",
+      "linkLabel": null,
+      "images": []
+    },
+    {
+      "id": "rules",
+      "group": "stay",
+      "title": {
+        "hu": "Nemdohányzó apartman",
+        "ro": "Apartament pentru nefumători",
+        "en": "Smoke-free apartment"
+      },
+      "body": {
+        "hu": "KITÖLTENDŐ",
+        "ro": "DE COMPLETAT",
+        "en": "TO COMPLETE"
+      },
+      "url": null,
+      "status": "draft",
+      "cycle": "monthly",
+      "source": "KITÖLTENDŐ",
+      "checkedAt": "2026-10-26",
+      "validUntil": "2026-11-26",
+      "linkLabel": null,
+      "images": []
+    },
+    {
+      "id": "parking",
+      "group": "arrival",
+      "title": {
+        "hu": "Parkolás",
+        "ro": "Parcare",
+        "en": "Parking"
+      },
+      "body": {
+        "hu": "KITÖLTENDŐ",
+        "ro": "DE COMPLETAT",
+        "en": "TO COMPLETE"
+      },
+      "url": null,
+      "status": "draft",
+      "cycle": "monthly",
+      "source": "KITÖLTENDŐ",
+      "checkedAt": "2026-10-26",
+      "validUntil": "2026-11-26",
+      "linkLabel": null,
+      "images": []
+    },
+    {
+      "id": "checkout",
+      "group": "departure",
+      "title": {
+        "hu": "Távozás 10:00-ig",
+        "ro": "Plecare până la 10:00",
+        "en": "Check-out by 10:00"
+      },
+      "body": {
+        "hu": "KITÖLTENDŐ",
+        "ro": "DE COMPLETAT",
+        "en": "TO COMPLETE"
+      },
+      "url": null,
+      "status": "draft",
+      "cycle": "monthly",
+      "source": "KITÖLTENDŐ",
+      "checkedAt": "2026-10-26",
+      "validUntil": "2026-11-26",
+      "linkLabel": null,
+      "images": []
+    },
+    {
+      "id": "nespresso",
+      "group": "stay",
+      "title": {
+        "hu": "Nespresso: a kávémennyiség beállítása",
+        "ro": "Nespresso: reglarea cantității de cafea",
+        "en": "Nespresso: adjust your coffee volume"
+      },
+      "body": {
+        "hu": "KITÖLTENDŐ",
+        "ro": "DE COMPLETAT",
+        "en": "TO COMPLETE"
+      },
+      "url": null,
+      "linkLabel": {
+        "hu": "Videós útmutató megnyitása",
+        "ro": "Deschide ghidul video",
+        "en": "Watch the video guide"
+      },
+      "status": "draft",
+      "cycle": "monthly",
+      "checkedAt": "2026-10-26",
+      "validUntil": "2026-11-26",
+      "source": "KITÖLTENDŐ",
+      "images": []
+    }
+  ],
+  "contact": {
+    "name": "",
+    "phone": "",
+    "displayPhone": "",
+    "whatsapp": "",
+    "reviewUrl": ""
+  }
+}
