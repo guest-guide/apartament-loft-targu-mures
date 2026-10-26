@@ -50,9 +50,9 @@
         "en": "Parking"
       },
       "body": {
-        "hu": "Az épület előtt utcai parkolóhelyeket kereshetsz. A szabad helyek nem garantáltak.\n\nZóna: a szállásadó tájékoztatása szerint I. zóna. Ellenőrizd a helyszíni táblát.\nFizetős időszak: hétfőtől péntekig, 08:00 és 18:00 között.\nHétvége: az általános önkormányzati rend szerint díjmentes.\nNapijegy: körülbelül 2,60 € a TPARK alkalmazásban.\n\nFizetéshez használhatod a TPARK alkalmazást. Jóváhagyás előtt ellenőrizd a zónát, a rendszámot és a végösszeget.",
-        "ro": "Puteți căuta un loc de parcare pe strada din fața blocului. Disponibilitatea nu este garantată.\n\nZonă: conform gazdei, zona I. Verificați indicatorul de la fața locului.\nProgram cu plată: luni până vineri, 08:00–18:00.\nWeekend: gratuit conform programului general al primăriei.\nBilet de o zi: aproximativ 2,60 € prin aplicația TPARK.\n\nPuteți plăti prin TPARK. Înainte de confirmare, verificați zona, numărul de înmatriculare și suma finală.",
-        "en": "Look for street parking outside the building. Spaces are subject to availability.\n\nZone: Zone I according to the host. Check the sign where you park.\nCharging hours: Monday to Friday, 08:00–18:00.\nWeekends: free under the municipality’s general schedule.\nDay ticket: approximately €2.60 through the TPARK app.\n\nYou can pay with TPARK. Before confirming, check the zone, registration number and final amount."
+        "hu": "Az épület előtt utcai parkolóhelyeket kereshetsz. A szabad helyek nem garantáltak.\n\nZóna: 1-es zóna\nFizetős időszak: hétfőtől péntekig, 08:00 és 18:00 között. A napijegy körülbelül 2,60 € a TPARK alkalmazásban.\nHétvége: ingyenes\n\n\nFizetéshez használhatod a TPARK alkalmazást. Jóváhagyás előtt ellenőrizd a zónát, a rendszámot és a végösszeget.",
+        "ro": "Puteți căuta un loc de parcare pe strada din fața blocului. Disponibilitatea nu este garantată.\n\nZonă: zona 1 \nProgram cu plată: Este cu plată de luni până vineri, între orele 08:00 și 18:00. Un bilet valabil pentru o zi costă aproximativ 2,60 €.\nWeekend: gratuit \n\n\nPuteți plăti prin TPARK. Înainte de confirmare, verificați zona, numărul de înmatriculare și suma finală.",
+        "en": "Look for street parking outside the building. Spaces are subject to availability.\n\nZone: Zone 1.\nCharging hours: Monday to Friday 08:00–18:00, a day ticket costs approximately €2.60.\nWeekends: free\n\n\nYou can pay with TPARK. Before confirming, check the zone, registration number and final amount."
       },
       "url": "https://tpark.io/oras/plata-parcare-tirgu-mures/",
       "status": "approved",
@@ -212,9 +212,9 @@
       "id": "nespresso",
       "group": "stay",
       "title": {
-        "hu": "Nespresso: a kávémennyiség beállítása",
-        "ro": "Nespresso: reglarea cantității de cafea",
-        "en": "Nespresso: adjust your coffee volume"
+        "hu": "Nespresso kávégép",
+        "ro": "Aparat Nespresso",
+        "en": "Nespresso coffee machine"
       },
       "body": {
         "hu": "Állítsd a kávé hosszúságát a saját ízlésedhez.\n\n1. Helyezd be a kapszulát.\n2. Tartsd lenyomva a kívánt kávégombot, például az eszpresszó gombját.\n3. Amikor elegendő kávé került a csészébe, engedd el a gombot.\n\nA gép megjegyzi a mennyiséget. Legközelebb ugyanennek a gombnak a megnyomásakor ezt a mennyiséget készíti el.",
