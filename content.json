@@ -50,9 +50,9 @@
         "en": "Parking"
       },
       "body": {
-        "hu": "Az épület előtt utcai parkolóhelyeket kereshetsz. A szabad helyek nem garantáltak.\n\nZóna: 1-es zóna\nFizetős időszak: hétfőtől péntekig, 08:00 és 18:00 között. A napijegy körülbelül 2,60 € a TPARK alkalmazásban.\nHétvége: ingyenes\n\n\nFizetéshez használhatod a TPARK alkalmazást. Jóváhagyás előtt ellenőrizd a zónát, a rendszámot és a végösszeget.",
-        "ro": "Puteți căuta un loc de parcare pe strada din fața blocului. Disponibilitatea nu este garantată.\n\nZonă: zona 1 \nProgram cu plată: Este cu plată de luni până vineri, între orele 08:00 și 18:00. Un bilet valabil pentru o zi costă aproximativ 2,60 €.\nWeekend: gratuit \n\n\nPuteți plăti prin TPARK. Înainte de confirmare, verificați zona, numărul de înmatriculare și suma finală.",
-        "en": "Look for street parking outside the building. Spaces are subject to availability.\n\nZone: Zone 1.\nCharging hours: Monday to Friday 08:00–18:00, a day ticket costs approximately €2.60.\nWeekends: free\n\n\nYou can pay with TPARK. Before confirming, check the zone, registration number and final amount."
+        "hu": "Az épület előtt utcai parkolóhelyeket kereshetsz. A szabad helyek nem garantáltak.\n\nZóna: 1-es zóna\nFizetős időszak: hétfő- péntek, 08:00 és 18:00 között. A napijegy körülbelül 2,60 € a TPARK alkalmazásban.\nHétvége: ingyenes\n\n\nFizetéshez használhatod a TPARK alkalmazást.",
+        "ro": "Puteți căuta un loc de parcare pe strada din fața blocului. Disponibilitatea nu este garantată.\n\nZonă: zona 1 \nProgram cu plată: luni-vineri, între 08:00 și 18:00. Bilet de zi: aproximativ 2,60 €.\nWeekend: gratuit \n\n\nPuteți plăti prin TPARK. ",
+        "en": "Look for street parking outside the building. Spaces are subject to availability.\n\nZone: Zone 1.\nCharging hours: Monday-Friday, between 08:00–18:00. A day ticket costs approximately €2.60.\nWeekends: free\n\n\nYou can pay with TPARK.s"
       },
       "url": "https://tpark.io/oras/plata-parcare-tirgu-mures/",
       "status": "approved",
