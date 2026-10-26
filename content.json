@@ -167,14 +167,14 @@
       "id": "checkout",
       "group": "departure",
       "title": {
-        "hu": "Távozás 10:00-ig",
-        "ro": "Plecare până la 10:00",
-        "en": "Check-out by 10:00"
+        "hu": "Kérjük, hogy az apartmant legkésőbb 10:00 óráig hagyja el.",
+        "ro": "Vă rugăm să eliberați apartamentul până la ora 10:00.",
+        "en": "Please check out by 10:00 AM."
       },
       "body": {
-        "hu": "Kijelentkezés: 10:00-ig.\n\n1. Vidd ki a szemetet.\n2. Hagyd nyitva a fürdőszoba ajtaját a szellőzéshez.\n3. Tedd vissza a kulcsot a kulcsszéfbe.\n4. Küldj egy rövid üzenetet, amikor elhagytad az apartmant.\n\nKésőbbi távozás: csak előzetes egyeztetéssel, a lehetőségek függvényében.",
-        "ro": "Check-out: până la ora 10:00.\n\n1. Duceți gunoiul.\n2. Lăsați ușa băii deschisă pentru aerisire.\n3. Puneți cheia înapoi în cutia de chei.\n4. Trimiteți-ne un mesaj scurt când ați părăsit apartamentul.\n\nPlecare mai târzie: doar cu acordul gazdei, în funcție de disponibilitate.",
-        "en": "Check-out: by 10:00.\n\n1. Take out the rubbish.\n2. Leave the bathroom door open for ventilation.\n3. Return the key to the key safe.\n4. Send us a short message once you have left.\n\nLate check-out: by prior agreement, subject to availability."
+        "hu": "Távozás előtt kérjük:\n\n1. Vigye ki a szemetet.\n2. Hagyja nyitva a fürdőszoba ajtaját a szellőzés érdekében.\n3. Tegye vissza a kulcsot a kulcsszéfbe.\n4. Távozás után küldjön nekünk egy rövid üzenetet.\n\nHa később szeretne távozni, kérjük, jelezze előre. A lehetőséget a foglaltság függvényében tudjuk visszaigazolni.\n\nKöszönjük, hogy nálunk szállt meg, és jó utat kívánunk!",
+        "ro": "Înainte de plecare, vă rugăm:\n\n1. Să goliți gunoiul.\n2. Lăsați ușa băii deschisă pentru aerisire.\n3. Puneți cheia înapoi în cutia de chei.\n4. Trimiteți-ne un mesaj scurt când ați părăsit apartamentul.\n\nDacă doriți să plecați mai târziu, vă rugăm să ne contactați din timp. Vom confirma această posibilitate în funcție de disponibilitate.\n\nVă mulțumim că ați fost oaspeții noștri și vă dorim drum bun!",
+        "en": "Before you leave, please:\n\n1. Take out the rubbish.\n2. Leave the bathroom door open for ventilation.\n3. Return the key to the key safe.\n4. Send us a short message once you have left.\n\nIf you would like a later check-out, please contact us in advance. We will confirm whether this is possible based on availability.\n\nThank you for staying with us. We wish you a safe journey!"
       },
       "url": null,
       "status": "approved",
@@ -316,12 +316,12 @@
       "title": {
         "hu": "Nemdohányzó apartman",
         "ro": "Apartament pentru nefumători",
-        "en": "Smoke-free apartment"
+        "en": "Non-smoking apartment"
       },
       "body": {
-        "hu": "Kérjük, segíts megőrizni az apartman kényelmét a következő vendégek számára is.\n\nDohányzás: az apartman egész területén tilos, kivétel nélkül.",
-        "ro": "Vă mulțumim că ne ajutați să păstrăm apartamentul plăcut pentru toți oaspeții.\n\nFumat: interzis în întregul apartament, fără excepții.",
-        "en": "Thank you for helping us keep the apartment welcoming for every guest.\n\nSmoking: not permitted anywhere inside, without exceptions."
+        "hu": "Szeretnénk, hogy minden vendégünk tiszta környezetben, friss levegőjű térben pihenhessen. Az apartmanban tilos a dohányzás.\n\nKöszönjük a figyelmességét és megértését.",
+        "ro": "Ne dorim ca fiecare oaspete să se bucure de un spațiu curat și un aer proaspăt. Fumatul este interzis în interiorul apartamentului.\n\nVă mulțumim pentru grijă și înțelegere.",
+        "en": "We want every guest to enjoy a clean space and fresh air. Smoking is not permitted inside the apartment.\n\nThank you for your consideration and understanding."
       },
       "url": null,
       "status": "approved",
