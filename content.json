@@ -39,7 +39,16 @@
       "checkedAt": "2026-10-26",
       "validUntil": "2026-11-26",
       "linkLabel": null,
-      "images": []
+      "images": [
+        {
+          "src": "assets/check-in-entrance.jpg",
+          "alt": {
+            "hu": "Az udvarba vezető bejárat",
+            "ro": "Intrarea spre curtea interioară",
+            "en": "Entrance to the inner courtyard"
+          }
+        }
+      ]
     },
     {
       "id": "parking",
@@ -61,7 +70,16 @@
       "checkedAt": "2026-10-26",
       "validUntil": "2026-11-26",
       "linkLabel": null,
-      "images": []
+      "images": [
+        {
+          "src": "assets/parking-street.jpg",
+          "alt": {
+            "hu": "Utcai parkolás",
+            "ro": "Parcare pe stradă",
+            "en": "Street parking"
+          }
+        }
+      ]
     },
     {
       "id": "jai",
