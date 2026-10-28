@@ -23,9 +23,9 @@
       "id": "arrival",
       "group": "arrival",
       "title": {
-        "hu": "Megérkezés, lépésről lépésre",
-        "ro": "Sosirea, pas cu pas",
-        "en": "Arriving, step by step"
+        "hu": "Check-in",
+        "ro": "Check-in",
+        "en": "Check-in"
       },
       "body": {
         "hu": "Önálló érkezés, kényelmes kulcsátvétellel.\n\nCím: Str. Tușnad 2, C tömb, 4. emelet, 43. apartman, Târgu Mureș.\nÉrkezés: 14:00-tól.\n\n1. Lépj be a belső udvarba.\n2. Keresd az első lépcsőházat a bal oldalon.\n3. A kulcsot a kaputelefon melletti kulcsszéfből veheted át.\n\nKulcsszéf kódja: 2662.\n\nKérjük, bejutás után egy rövid üzenetben jelezd, hogy minden rendben van.",
