@@ -1,0 +1,36 @@
+{
+  "arrival": {
+    "title": {
+      "hu": "Check-in",
+      "ro": "Check-in",
+      "en": "Check-in"
+    },
+    "images": [
+      {
+        "src": "assets/check-in-entrance.jpg",
+        "alt": {
+          "hu": "Az udvarba vezető utcai kapubejárat",
+          "ro": "Intrarea din stradă spre curtea interioară",
+          "en": "Street entrance leading to the inner courtyard"
+        }
+      }
+    ]
+  },
+  "parking": {
+    "title": {
+      "hu": "Parkolás",
+      "ro": "Parcare",
+      "en": "Parking"
+    },
+    "images": [
+      {
+        "src": "assets/parking-street.jpg",
+        "alt": {
+          "hu": "Utcai parkolóhelyek a Tușnad utcában",
+          "ro": "Locuri de parcare pe strada Tușnad",
+          "en": "Street parking spaces on Tușnad Street"
+        }
+      }
+    ]
+  }
+}
